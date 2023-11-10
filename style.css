@@ -1,0 +1,39 @@
+*{
+
+    padding: 0 0;
+}
+
+.main {
+
+    border: 1px solid red;
+    background-color: rgb(141, 153, 141);
+    width: 40%;
+    
+   
+
+    
+}
+
+
+.list {
+
+    background-color: blanchedalmond;
+    color: green;
+    list-style-type: none;
+    text-align: center;
+    border-bottom: 1px solid black;
+
+}
+
+.list a {
+
+    color: green;
+    text-decoration: none;
+    
+}
+
+
+.list a:hover {
+
+    color: blueviolet;
+}
