@@ -5,14 +5,29 @@
 
 .main {
 
-    border: 1px solid red;
+    /* border: 1px solid red; */
     background-color: rgb(141, 153, 141);
     width: 40%;
-    
-   
+    position: absolute;
+   top: 50%;
+   left: 50%;
+transform: translate(-50%, -50%);
 
-    
+
+   }
+
+
+.inner-title {
+
+    background-color: gray;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: large;
+    padding: 10px 10px;
+    text-align: center;
+
 }
+
 
 
 .list {
