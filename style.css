@@ -37,6 +37,8 @@ transform: translate(-50%, -50%);
     list-style-type: none;
     text-align: center;
     border-bottom: 1px solid black;
+    font-size: 1.4em;
+    
 
 }
 
@@ -52,3 +54,11 @@ transform: translate(-50%, -50%);
 
     color: blueviolet;
 }
+
+details{
+
+    color: black;
+    font-size: 16px;
+}
+
+
